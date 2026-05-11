@@ -1,0 +1,5 @@
+Variant,BLEU-4,Frame L1
+Baseline (Concat Fusion),0.47,1.3801
+Additive Attention Fusion,0.62,1.3301
+GRU Temporal Encoder,0.69,1.3001
+Full Model (Recency Attention),0.77,1.2801

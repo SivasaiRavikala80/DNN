@@ -3,7 +3,7 @@
 ## Quick Links
 - **[Experiments Notebook](experiments.ipynb)** – Full training and evaluation workflow
 - **[XAI Figures](results/xai/)** – Integrated Gradients, Grad-CAM++, Attention Scores
-- **[Loss Curves](results/loss_curves.png)** – Training progress over 25 epochs
+- **[Loss Curves](results/loss_curves.png/xai.png/ablation_plot/metrics_bar/caption_lengths)** – Training progress over 25 epochs
 - **[Prediction Example](results/prediction_example.png)** – Qualitative story continuation
 
 ---
